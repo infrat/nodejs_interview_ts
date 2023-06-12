@@ -1,0 +1,1 @@
+https://www.econdb.com/api/series/?page=1
